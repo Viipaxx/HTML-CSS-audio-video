@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.audios {
+    background-color: rgb(0, 0, 0);
+    margin: 0 0 20px 0;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 15px;
+}
+
+.musica {
+    width: 300px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.856), #fa7900);
+    margin: 10px 15px 20px;
+    display: inline-block;
+}
+
+.logo {
+    width: 200px;
+    margin: 40px 50px;
+}
+
+h4, p {
+    color: white;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+
+.name-music {
+    font-size: 19px;
+}
+
+.compositor {
+    font-size: 13px;
+    margin: 10px;
+}
+
+.audio-music {
+    width: 200px;
+    margin: 10px 50px 10px;    
+}
+
+.video {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+video {
+    width: 500px;
+    height: 240px;
+    margin: 30px 0;
+}
+
+
+
+
+
+
+
+
+/* 
+.musics {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.title {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.musics-ul{
+    list-style-type: none;
+}
+
+.musics-li {
+
+    width: 100%;
+    margin: 20px auto;
+    position: relative;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+
+audio {
+    width: 300px;
+    position: absolute;
+    left: 100px;
+    top: 220px;
+}
+
+p {
+    position: absolute;
+    left: 160px;
+    top: 185px;
+    font-family: sans-serif;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+
+} */
